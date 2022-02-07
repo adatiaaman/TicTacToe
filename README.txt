@@ -1,6 +1,5 @@
 Aman Pankaj Adatia
-2020CSB1154
-Lab Assignment 2 - Java Programming
+
 
 Compile and Run TicTacToe.java file
 Commands:
